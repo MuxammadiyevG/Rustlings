@@ -1,2 +1,2 @@
 # Rustlings
-Rust bo'yicha amaliy topshiriqlar (Basic)
+Rust bo'yicha amaliy topshiriqlar yechimi (Basic)
