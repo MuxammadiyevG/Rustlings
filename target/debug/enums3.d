@@ -1,1 +1,0 @@
-/home/mikro/Learning/Labs_Rust/rustlings/target/debug/enums3: /home/mikro/Learning/Labs_Rust/rustlings/exercises/08_enums/enums3.rs
